@@ -9,6 +9,7 @@ science context.
 from typing import Iterable
 import pandas as pd
 from pandas.api import types as pdt
+import numpy as np
 
 
 class DataCleaner:
